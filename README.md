@@ -11,3 +11,6 @@ The collection is shared to be supplemented and continued by the community.
 ### publisher: Publisher of the data journal (retrieved from Crossref on 2022-10-11 and harmonized for the initial dataset)
 ### URL: URL of the journal homepage (manually added)
 ### data_journal_type: Type of the data journal (manually added); either pure (journal has a strong focus on publishing data papers) or mixed (journal also publishes other publication types)
+
+## Sources
+A list of publications on data journals is curated in Zotero: https://www.zotero.org/groups/2316312/oabb/collections/MVSCZTBL

@@ -1,19 +1,8 @@
 ISSN,journal_title,publisher,URL,data_journal_type
-2574-5417,Big Earth Data,Taylor & Francis,https://www.tandfonline.com/journals/tbed20,mixed
-1809-127X,Check List,Pensoft,https://checklist.pensoft.net/,pure
-1698-0476,Arxius de Miscel·lània Zoològica,Museu de Ciències Naturals de Barcelona,https://museucienciesjournals.cat/en/amz,pure
-1941-4927,NCHS Data Briefs,Centers for Disease Control and Preventions (CDC),https://www.cdc.gov/nchs/products/databriefs.htm,pure
-1758-0463,Database: The Journal of Biological Databases and Curation,Oxford University Press,https://academic.oup.com/database,pure
-2709-4715,Gigabyte,BGI and Oxford University Press,https://gigabytejournal.com/,pure
-2572-4754,Gates Open Research,F1000Research,https://gatesopenresearch.org/,mixed
-2732-5121,Open Research Europe,F1000Research,https://open-research-europe.ec.europa.eu/,mixed
-2363-4952,RIDE - A review journal for digital editions and resources,Institut für Dokumentologie und Editorik,https://ride.i-d-e.de/,pure
-2059-481X,Journal of Open Humanities Data,Ubiquity Press,https://openhumanitiesdata.metajnl.com/,pure
-2296-7745,Frontiers in Marine Science,Frontiers,https://www.frontiersin.org/journals/marine-science,mixed
-2054-345X,Human Genome Variation,Springer Nature,https://www.nature.com/hgv/,mixed
-2032-6378,Journal of Astronomical Data,Vrije Universiteit Brussel,http://journalofastronomicaldata.be/,pure
 1297-966X,Annals of Forest Science,BioMed Central (Springer Nature),https://annforsci.biomedcentral.com/,mixed
-0092-640X,Atomic Data and Nuclear Data Tables,Elsevier,https://www.sciencedirect.com/journal/atomic-data-and-nuclear-data-tables,pure
+1698-0476,Arxius de Miscel·lània Zoològica,Museu de Ciències Naturals de Barcelona,https://museucienciesjournals.cat/en/amz,pure
+1090-2090,Atomic Data and Nuclear Data Tables,Elsevier,https://www.sciencedirect.com/journal/atomic-data-and-nuclear-data-tables,pure
+2574-5417,Big Earth Data,Taylor & Francis,https://www.tandfonline.com/journals/tbed20,mixed
 1314-2828,Biodiversity Data Journal,Pensoft Publishers,https://bdj.pensoft.net/,mixed
 2242-1300,BioInvasions Records,Regional Euro-Asian Biological Invasions Centre,https://www.reabic.net/journals/bir/,mixed
 2042-6410,Biology of Sex Differences,BioMed Central (Springer Nature),https://bsd.biomedcentral.com/,mixed
@@ -44,7 +33,6 @@ ISSN,journal_title,publisher,URL,data_journal_type
 1471-2288,BMC Medical Research Methodology,BioMed Central (Springer Nature),https://bmcmedresmethodol.biomedcentral.com/,mixed
 1741-7015,BMC Medicine,BioMed Central (Springer Nature),https://bmcmedicine.biomedcentral.com/,mixed
 1471-2180,BMC Microbiology,BioMed Central (Springer Nature),https://bmcmicrobiol.biomedcentral.com/,mixed
-1471-2121,BMC Molecular and Cell Biology,BioMed Central (Springer Nature),https://bmcmolcellbiol.biomedcentral.com/,mixed
 2661-8850,BMC Molecular and Cell Biology,BioMed Central (Springer Nature),https://bmcmolcellbiol.biomedcentral.com/,mixed
 1471-2474,BMC Musculoskeletal Disorders,BioMed Central (Springer Nature),https://bmcmusculoskeletdisord.biomedcentral.com/,mixed
 1471-2369,BMC Nephrology,BioMed Central (Springer Nature),https://bmcnephrol.biomedcentral.com/,mixed
@@ -72,12 +60,14 @@ ISSN,journal_title,publisher,URL,data_journal_type
 2056-3132,BMC Zoology,BioMed Central (Springer Nature),https://bmczool.biomedcentral.com/,mixed
 1999-3110,Botanical Studies,Springer Open (Springer Nature),https://as-botanicalstudies.springeropen.com/,mixed
 2045-3701,Cell & Bioscience,BioMed Central (Springer Nature),https://cellandbioscience.biomedcentral.com/,mixed
+1809-127X,Check List,Pensoft Publishers,https://checklist.pensoft.net/,pure
 2405-8300,Chemical Data Collections,Elsevier,https://www.sciencedirect.com/journal/chemical-data-collections,pure
 2045-709X,Chiropractic & Manual Therapies,BioMed Central (Springer Nature),https://chiromt.biomedcentral.com/,mixed
 1278-3366,Cybergeo,OpenEdition,https://journals.openedition.org/cybergeo/,mixed
 2306-5729,Data,MDPI,https://www.mdpi.com/journal/data,mixed
 2352-3409,Data in Brief,Elsevier,https://www.sciencedirect.com/journal/data-in-brief,pure
 1683-1470,Data Science Journal,Ubiquity Press,https://datascience.codata.org/,mixed
+1758-0463,Database: The Journal of Biological Databases and Curation,Oxford University Press,https://academic.oup.com/database,pure
 1866-3516,Earth System Science Data,Copernicus,https://www.earth-system-science-data.net/,pure
 1440-1703,Ecological Research,Blackwell Publishing (Wiley),https://esj-journals.onlinelibrary.wiley.com/journal/14401703,mixed
 1939-9170,Ecology,John Wiley & Sons (Wiley),https://esajournals.onlinelibrary.wiley.com/journal/19399170,mixed
@@ -87,28 +77,36 @@ ISSN,journal_title,publisher,URL,data_journal_type
 2046-1402,F1000Research,F1000Research,https://f1000research.com/,mixed
 2197-5620,Forest Ecosystems,Elsevier,https://www.sciencedirect.com/journal/forest-ecosystems,mixed
 2312-6604,Freshwater Metadata Journal,University of Natural Resources and Life Sciences Vienna,http://data.freshwaterbiodiversity.eu/fmj/,pure
+2296-7745,Frontiers in Marine Science,Frontiers,https://www.frontiersin.org/journals/marine-science,mixed
+2572-4754,Gates Open Research,F1000Research,https://gatesopenresearch.org/,mixed
 1756-994X,Genome Medicine,BioMed Central (Springer Nature),https://genomemedicine.biomedcentral.com/,mixed
 2049-6060,Geoscience Data Journal,Blackwell Publishing (Wiley),https://rmets.onlinelibrary.wiley.com/journal/20496060,pure
 1991-9603,Geoscientific Model Development,Copernicus,https://www.geoscientific-model-development.net/,pure
+2709-4715,Gigabyte,BGI and Oxford University Press,https://gigabytejournal.com/,pure
 2047-217X,GigaScience,Oxford University Press,https://academic.oup.com/gigascience,mixed
 2194-7899,Health & Justice,BioMed Central (Springer Nature),https://healthandjusticejournal.biomedcentral.com/,mixed
+2054-345X,Human Genome Variation,Springer Nature,https://www.nature.com/hgv/,mixed
 1479-7364,Human Genomics,BioMed Central (Springer Nature),https://humgenomics.biomedcentral.com/,mixed
+2941-1300,ing.grid,Universitäts- und Landesbibliothek Darmstadt,https://www.inggrid.org/,mixed
 2110-7017,International Economics,Elsevier,https://www.journals.elsevier.com/international-economics,mixed
 1464-3685,International Journal of Epidemiology,Oxford University Press,https://academic.oup.com/ije/pages/About,mixed
 2196-2804,International Journal of Food Contamination,BioMed Central (Springer Nature),https://foodcontaminationjournal.biomedcentral.com/,mixed
 1363-5387,Internet Archaeology,Council for British Archaeology,https://intarch.ac.uk/,mixed
 2046-0481,Irish Veterinary Journal,BioMed Central (Springer Nature),https://irishvetjournal.biomedcentral.com/,mixed
 2414-3146,IUCrData,International Union of Crystallography,https://iucrdata.iucr.org/x/,pure
+2819-4497,JMIR Data,JMIR Publications,https://data.jmir.org/,mixed
 2191-5040,Journal of Applied Volcanology,BioMed Central (Springer Nature),https://appliedvolc.biomedcentral.com/,mixed
+1385-3945,Journal of Astronomical Data,Vrije Universiteit Brussel,https://journalofastronomicaldata.be/jad.htm,mixed
 2041-1480,Journal of Biomedical Semantics,BioMed Central (Springer Nature),https://jbiomedsem.biomedcentral.com/,mixed
 1520-5134,Journal of Chemical & Engineering Data,American Chemical Society,https://pubs.acs.org/journal/jceaax,pure
 1758-2946,Journal of Cheminformatics,BioMed Central (Springer Nature),https://jcheminf.biomedcentral.com/,mixed
 1537-2537,Journal of Environmental Quality,John Wiley & Sons (Wiley),https://acsess.onlinelibrary.wiley.com/journal/15372537,mixed
 1745-6673,Journal of Occupational Medicine and Toxicology,BioMed Central (Springer Nature),https://occup-med.biomedcentral.com/,mixed
 2049-1565,Journal of Open Archaeology Data,Ubiquity Press,https://openarchaeologydata.metajnl.com/,pure
+2059-481X,Journal of Open Humanities Data,Ubiquity Press,https://openhumanitiesdata.metajnl.com/,pure
 2050-9863,Journal of Open Psychology Data,Ubiquity Press,https://openpsychologydata.metajnl.com/,pure
 2049-9647,Journal of Open Research Software,Ubiquity Press,https://openresearchsoftware.metajnl.com/,mixed
-1529-7845,Journal of Physical and Chemical Reference Data,American Institute of Physics,https://aip.scitation.org/jpr/info/focus,pure
+1529-7845,Journal of Physical and Chemical Reference Data,AIP Publishing,https://pubs.aip.org/aip/jpr,pure
 1550-2783,Journal of the International Society of Sports Nutrition,Taylor & Francis,https://www.tandfonline.com/journals/rssn20,mixed
 2534-9708,Metabarcoding and Metagenomics,Pensoft Publishers,https://mbmg.pensoft.net/,mixed
 2578-9430,microPublication Biology,Caltech Library,https://www.micropublication.org/,pure
@@ -116,6 +114,7 @@ ISSN,journal_title,publisher,URL,data_journal_type
 2051-3933,Movement Ecology,BioMed Central (Springer Nature),https://movementecologyjournal.biomedcentral.com/,mixed
 1314-4049,MycoKeys,Pensoft Publishers,https://mycokeys.pensoft.net/,mixed
 1314-3301,Nature Conservation,Pensoft Publishers,https://natureconservation.pensoft.net/,mixed
+1941-4927,NCHS Data Briefs,Centers for Disease Control and Prevention (CDC),https://www.cdc.gov/nchs/products/databriefs.htm,pure
 1314-2488,NeoBiota,Pensoft Publishers,https://neobiota.pensoft.net/,mixed
 1559-0089,Neuroinformatics,Springer (Springer Nature),https://www.springer.com/journal/12021/,mixed
 0090-3752,Nuclear Data Sheets,Elsevier,https://www.sciencedirect.com/journal/nuclear-data-sheets,pure
@@ -125,6 +124,7 @@ ISSN,journal_title,publisher,URL,data_journal_type
 2363-7501,Open Geospatial Data Software and Standards,Springer Open (Springer Nature),https://opengeospatialdata.springeropen.com/,mixed
 2054-7102,Open Health Data,Ubiquity Press,https://openhealthdata.metajnl.com/,pure
 2056-5542,Open Journal of Bioresources,Ubiquity Press,https://openbioresources.metajnl.com/,pure
+2732-5121,Open Research Europe,F1000Research,https://open-research-europe.ec.europa.eu/,mixed
 2471-2906,Phytobiomes Journal,APS Publications,https://apsjournals.apsnet.org/journal/pbiomes,mixed
 1314-2003,PhytoKeys,Pensoft Publishers,https://phytokeys.pensoft.net/,mixed
 1943-7684,Phytopathology,APS Publications,https://apsjournals.apsnet.org/journal/phyto,mixed
@@ -133,12 +133,12 @@ ISSN,journal_title,publisher,URL,data_journal_type
 1746-4811,Plant Methods,BioMed Central (Springer Nature),https://plantmethods.biomedcentral.com/,mixed
 2452-3666,Research Data Journal for the Humanities and Social Sciences,Brill,https://brill.com/view/journals/rdj/rdj-overview.xml,pure
 2367-7163,Research Ideas and Outcomes,Pensoft Publishers,https://riojournal.com/,mixed
+2363-4952,RIDE - A review journal for digital editions and resources,Institut für Dokumentologie und Editorik,https://ride.i-d-e.de/,pure
 2052-4463,Scientific Data,Springer Nature,https://www.nature.com/sdata/,mixed
 1747-597X,Substance Abuse Treatment Prevention and Policy,BioMed Central (Springer Nature),https://substanceabusepolicy.biomedcentral.com/,mixed
 1538-4365,The Astrophysical Journal Supplement Series,IOP,https://journals.aas.org/astrophysical-supplement-series/,pure
 1741-3176,The International Journal of Robotics Research,SAGE Publishing,https://journals.sagepub.com/home/IJR,mixed
 1365-313X,The Plant Journal,Blackwell Publishing (Wiley),https://onlinelibrary.wiley.com/journal/1365313x,mixed
 2578-2703,The Plant Phenome Journal,John Wiley & Sons (Wiley),https://acsess.onlinelibrary.wiley.com/journal/25782703,mixed
-2603-431X,Viticulture Data Journal,Pensoft Publishers,https://vdj.pensoft.net/,pure
+2603-431X,Viticulture Data Journal,Pensoft Publishers,https://vdj.pensoft.net/,mixed
 2398-502X,Wellcome Open Research,F1000Research,https://wellcomeopenresearch.org/,mixed
-
